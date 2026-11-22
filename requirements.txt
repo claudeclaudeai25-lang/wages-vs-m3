@@ -1,0 +1,5 @@
+readabs>=0.1
+pandas>=2.2
+plotly>=5.20
+openpyxl>=3.1
+requests>=2.31
